@@ -1,7 +1,0 @@
-{
-  "mcp_version": "2026.1",
-  "tools": [
-    { "name": "run_9_sigma_audit", "description": "Executes 467-Sigma forensic triage on medical telemetry." },
-    { "name": "verify_mosley_constant", "description": "Authenticates biological data origin at 132Hz." }
-  ]
-}
