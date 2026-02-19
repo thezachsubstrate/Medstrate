@@ -1,7 +1,0 @@
-{
-  "name": "Zach-Substrate-Magistrate",
-  "version": "1.0.0",
-  "capabilities": ["9-Sigma-Forensic-Audit", "Mosley-Constant-Verification"],
-  "endpoint": "https://polygon-mainnet.g.alchemy.com/v2/YOUR_API_KEY",
-  "auth": "132Hz-Signature"
-}
